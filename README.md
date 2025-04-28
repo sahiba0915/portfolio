@@ -12,7 +12,7 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://sahibaportfolio.vercel.app/)
+👉 [Live Demo](https://sahiba.vercel.app/)
 
 ## 🛠 Getting Started
 
